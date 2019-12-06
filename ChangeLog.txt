@@ -1,0 +1,29 @@
+*** 07/18/2018
+Working on the resistance concept
+Created a Resistance scene and a Circiut scene
+Resistance Scene: a micro view with a slider, changing the R value and sprite (changing number of ions)
+
+1. change the haptic texture with the slider
+
+2. make a fixed circuit in the Circuit scene, and transfer to the Resistance scene when tapped on the resistors.
+
+
+
+07/21/2018
+
+1. work on the representation of the inside view
+
+2. enable changing resistance of different components of the circuit.
+
+
+08/09/2018
+
+1. Adding directionality to current
+2. Making only one object for the haptics instead of multiple objects.
+
+08/14/2018
+I resolved the issue with button click() function and touch events by disabling standalone input module (script) from eventsystem.
+Found solution from this link: https://answers.unity.com/questions/868618/problem-with-touch-and-raycast-and-ui-button.html
+
+
+

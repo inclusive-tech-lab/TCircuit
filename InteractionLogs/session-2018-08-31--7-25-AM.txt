@@ -1,0 +1,308 @@
+***** Interaction Log File *****
+Date and time: 8/31/2018 7:25:51 AM
+Condition: Haptics
+=============================================
+t = 0.7760843, Start Question 1
+=============================================
+=============================================
+t = 2.089934, Start Task 1
+=============================================
+t = 3.805942, Touch Down, x = -1.940617, y = 3.742617
+t = 3.888881, Touch Move Start , x = -2.113886, y = 3.707964
+t = 3.888881, Touch Move Counter-Clockwise Zone1, Left, x = -2.113886, y = 3.707964
+t = 3.905341, Touch Move Counter-Clockwise Zone1, Left, x = -2.287155, y = 3.67331
+t = 3.922109, Touch Move Counter-Clockwise Zone1, Left, x = -2.425771, y = 3.638656
+t = 3.938474, Touch Move Counter-Clockwise Zone1, Left, x = -2.564386, y = 3.604002
+t = 3.95504, Touch Move Counter-Clockwise Zone1, Left, x = -2.703002, y = 3.604002
+t = 3.971607, Touch Move Counter-Clockwise Zone1, Left, x = -2.77231, y = 3.604002
+t = 3.988174, Touch Move Counter-Clockwise Zone1, Left, x = -2.910925, y = 3.604002
+t = 4.004827, Touch Move Counter-Clockwise Zone1, Left, x = -3.084194, y = 3.569348
+t = 4.021308, Touch Move Counter-Clockwise Zone1, Left, x = -3.153502, y = 3.569348
+t = 4.037874, Touch Move Counter-Clockwise Zone1, Left, x = -3.257463, y = 3.604002
+t = 4.054482, Touch Move Counter-Clockwise Zone1, Left, x = -3.326771, y = 3.604002
+t = 4.071008, Touch Move Counter-Clockwise Zone1, Left, x = -3.500041, y = 3.604002
+t = 4.087573, Touch Move Counter-Clockwise Zone1, Left, x = -3.604002, y = 3.604002
+t = 4.120708, Touch Move Counter-Clockwise Zone12, Left Down, x = -3.707964, y = 3.604002
+t = 4.137274, Touch Move Counter-Clockwise Zone12, Left Down, x = -3.777272, y = 3.604002
+t = 4.154227, Touch Move Counter-Clockwise Zone12, Left Down, x = -3.881233, y = 3.604002
+t = 4.170408, Touch Move Counter-Clockwise Zone12, Left Down, x = -3.950541, y = 3.604002
+t = 4.186974, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.019848, y = 3.604002
+t = 4.203541, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.089156, y = 3.604002
+t = 4.220108, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.12381, y = 3.604002
+t = 4.236675, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.158464, y = 3.604002
+t = 4.253494, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.193118, y = 3.569348
+t = 4.269808, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.227772, y = 3.534695
+t = 4.28658, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.262425, y = 3.465386
+t = 4.302941, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.29708, y = 3.396079
+t = 4.319508, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.29708, y = 3.257464
+t = 4.336075, Touch Move Counter-Clockwise Zone12, Left Down, x = -4.331733, y = 3.188155
+t = 4.352641, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 2.980233
+t = 4.369301, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 2.910925
+t = 4.385847, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 2.703002
+t = 4.402341, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 2.564386
+t = 4.418933, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 2.287155
+t = 4.435478, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = 2.079232
+t = 4.452041, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = 1.940617
+t = 4.468607, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 1.663386
+t = 4.485174, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 1.490116
+t = 4.501761, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 1.420809
+t = 4.518307, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 1.247539
+t = 4.535239, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 1.07427
+t = 4.551441, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 0.9010004
+t = 4.568021, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 0.7970387
+t = 4.584574, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 0.6584235
+t = 4.60142, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 0.5198078
+t = 4.617708, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 0.3465385
+t = 4.634274, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 0.2425768
+t = 4.650858, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 0.2079234
+t = 4.667408, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 0.1039617
+t = 4.684136, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = 0
+t = 4.700541, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.1039617
+t = 4.717106, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.2772309
+t = 4.733675, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.3118847
+t = 4.750312, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.3811926
+t = 4.766808, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.4505002
+t = 4.799961, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.485154
+t = 4.816507, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.5198081
+t = 4.833074, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.5544619
+t = 4.849641, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.5891157
+t = 4.866209, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = -0.6237695
+t = 4.882774, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.401041, y = -0.6584235
+t = 4.915907, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.401041, y = -0.6930773
+t = 4.94905, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.401041, y = -0.762385
+t = 4.965608, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.366387, y = -0.762385
+t = 4.982427, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.366387, y = -0.797039
+t = 4.998976, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.366387, y = -0.8316928
+t = 5.032064, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.366387, y = -0.8663466
+t = 5.048441, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.331733, y = -0.9010004
+t = 5.081726, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.29708, y = -0.9703083
+t = 5.098145, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.262425, y = -0.9703083
+t = 5.114708, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.227772, y = -1.039616
+t = 5.131274, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.158464, y = -1.039616
+t = 5.148371, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.12381, y = -1.07427
+t = 5.164411, Touch Move Counter-Clockwise Zone23, Down Right, x = -4.019848, y = -1.108924
+t = 5.180974, Touch Move Counter-Clockwise Zone23, Down Right, x = -3.950541, y = -1.108924
+t = 5.198006, Touch Move Counter-Clockwise Zone23, Down Right, x = -3.881233, y = -1.108924
+t = 5.214162, Touch Move Counter-Clockwise Zone23, Down Right, x = -3.777272, y = -1.108924
+t = 5.230684, Touch Move Counter-Clockwise Zone23, Down Right, x = -3.742618, y = -1.108924
+t = 5.247242, Touch Move Counter-Clockwise Zone3, Right, x = -3.569348, y = -1.143578
+t = 5.263817, Touch Move Counter-Clockwise Zone3, Right, x = -3.534695, y = -1.143578
+t = 5.280756, Touch Move Counter-Clockwise Zone3, Right, x = -3.396079, y = -1.143578
+t = 5.296951, Touch Move Counter-Clockwise Zone3, Right, x = -3.257463, y = -1.143578
+t = 5.313508, Touch Move Counter-Clockwise Zone3, Right, x = -3.153502, y = -1.143578
+t = 5.330393, Touch Move Counter-Clockwise Zone3, Right, x = -3.04954, y = -1.143578
+t = 5.346907, Touch Move Counter-Clockwise Zone3, Right, x = -2.910925, y = -1.143578
+t = 5.363208, Touch Move Counter-Clockwise Zone3, Right, x = -2.77231, y = -1.178231
+t = 5.379775, Touch Move Counter-Clockwise Zone3, Right, x = -2.703002, y = -1.178231
+t = 5.39634, Touch Move Counter-Clockwise Zone3, Right, x = -2.564386, y = -1.178231
+t = 5.413076, Touch Move Counter-Clockwise Zone3, Right, x = -2.425771, y = -1.178231
+t = 5.429475, Touch Move Counter-Clockwise Zone3, Right, x = -2.321809, y = -1.178231
+t = 5.44604, Touch Move Counter-Clockwise Zone3, Right, x = -2.183193, y = -1.178231
+t = 5.462712, Touch Move Counter-Clockwise Zone3, Right, x = -2.079232, y = -1.178231
+t = 5.479188, Touch Move Counter-Clockwise Zone3, Right, x = -1.97527, y = -1.178231
+t = 5.495795, Touch Move Counter-Clockwise Zone3, Right, x = -1.905963, y = -1.178231
+t = 5.512307, Touch Move Counter-Clockwise Zone3, Right, x = -1.836655, y = -1.178231
+t = 5.528882, Touch Move Counter-Clockwise Zone3, Right, x = -1.732693, y = -1.178231
+t = 5.545929, Touch Move Counter-Clockwise Zone3, Right, x = -1.628732, y = -1.178231
+t = 5.562007, Touch Move Counter-Clockwise Zone3, Right, x = -1.52477, y = -1.178231
+t = 5.578575, Touch Move Counter-Clockwise Zone3, Right, x = -1.420808, y = -1.178231
+t = 5.595141, Touch Move Counter-Clockwise Zone3, Right, x = -1.316847, y = -1.178231
+t = 5.611707, Touch Move Counter-Clockwise Zone3, Right, x = -1.178232, y = -1.178231
+t = 5.62865, Touch Move Counter-Clockwise Zone3, Right, x = -1.039616, y = -1.178231
+t = 5.64484, Touch Move Counter-Clockwise Zone3, Right, x = -0.9010004, y = -1.212885
+t = 5.661407, Touch Move Counter-Clockwise Zone3, Right, x = -0.7623851, y = -1.212885
+t = 5.677994, Touch Move Counter-Clockwise Zone3, Right, x = -0.727731, y = -1.212885
+t = 5.69454, Touch Move Counter-Clockwise Zone3, Right, x = -0.5891156, y = -1.212885
+t = 5.711109, Touch Move Counter-Clockwise Zone3, Right, x = -0.554462, y = -1.212885
+t = 5.728574, Touch Move Counter-Clockwise Zone3, Right, x = -0.4505002, y = -1.212885
+t = 5.745181, Touch Move Counter-Clockwise Zone3, Right, x = -0.4158467, y = -1.212885
+t = 5.76174, Touch Move Counter-Clockwise Zone3, Right, x = -0.3465384, y = -1.212885
+t = 5.794843, Touch Move Counter-Clockwise Zone3, Right, x = -0.2772307, y = -1.212885
+t = 5.819518, Touch Move Counter-Clockwise Zone3, Right, x = -0.2079231, y = -1.212885
+t = 5.871873, Touch Move Counter-Clockwise Zone3, Right, x = -0.1732695, y = -1.212885
+t = 5.905005, Touch Move Counter-Clockwise Zone3, Right, x = -0.1386154, y = -1.212885
+t = 6.004858, Touch Move Counter-Clockwise Zone3, Right, x = -0.1039618, y = -1.212885
+t = 6.302607, Touch Move Clockwise Zone3, Right, x = -0.1039618, y = -1.247539
+t = 6.385916, Touch Move End , x = -0.1039618, y = -1.247539
+t = 6.385916, Touch Up, x = -0.1039618, y = -1.247539
+t = 13.22154, Touch Move Start , x = -4.782234, y = 1.871309
+t = 13.22154, Touch Move Clockwise Zone2, Down, x = -4.782234, y = 1.871309
+t = 13.25466, Touch Move Clockwise Zone2, Down, x = -4.74758, y = 1.871309
+t = 13.27108, Touch Move Clockwise Zone2, Down, x = -4.712926, y = 1.871309
+t = 13.30422, Touch Move Clockwise Zone2, Down, x = -4.678272, y = 1.871309
+t = 13.32078, Touch Move Clockwise Zone2, Down, x = -4.643618, y = 1.871309
+t = 13.35391, Touch Move Clockwise Zone2, Down, x = -4.608964, y = 1.871309
+t = 13.37047, Touch Move Clockwise Zone2, Down, x = -4.57431, y = 1.871309
+t = 13.45235, Touch Move Clockwise Zone2, Down, x = -4.505003, y = 1.871309
+t = 13.5155, Touch Move Counter-Clockwise Zone2, Down, x = -4.435695, y = 1.836655
+t = 13.54887, Touch Move Clockwise Zone2, Down, x = -4.401041, y = 1.836655
+t = 13.56541, Touch Move Counter-Clockwise Zone2, Down, x = -4.401041, y = 1.802001
+t = 13.58196, Touch Move Clockwise Zone2, Down, x = -4.366387, y = 1.802001
+t = 13.6149, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 1.767347
+t = 13.63159, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 1.732693
+t = 13.65359, Touch Move Counter-Clockwise Zone2, Down, x = -4.331733, y = 1.663386
+t = 13.67955, Touch Move Counter-Clockwise Zone2, Down, x = -4.331733, y = 1.628731
+t = 13.69612, Touch Move Counter-Clockwise Zone2, Down, x = -4.331733, y = 1.594078
+t = 13.72935, Touch Move Counter-Clockwise Zone2, Down, x = -4.331733, y = 1.559424
+t = 13.74582, Touch Move Counter-Clockwise Zone2, Down, x = -4.331733, y = 1.52477
+t = 13.76244, Touch Move Counter-Clockwise Zone2, Down, x = -4.331733, y = 1.455462
+t = 13.79552, Touch Move Counter-Clockwise Zone2, Down, x = -4.331733, y = 1.386155
+t = 13.81208, Touch Move Counter-Clockwise Zone2, Down, x = -4.331733, y = 1.351501
+t = 13.82865, Touch Move Counter-Clockwise Zone2, Down, x = -4.331733, y = 1.316847
+t = 13.86178, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 1.247539
+t = 13.87875, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 1.212885
+t = 13.89492, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 1.178231
+t = 13.91186, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 1.07427
+t = 13.92805, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 1.004962
+t = 13.94496, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.9010004
+t = 13.96118, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.8316928
+t = 13.99432, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.7623852
+t = 14.01089, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.7277312
+t = 14.02745, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.693077
+t = 14.04402, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.6237695
+t = 14.06058, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.589116
+t = 14.07715, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.4851543
+t = 14.09432, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.4158461
+t = 14.11086, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.3465385
+t = 14.12741, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.2772309
+t = 14.14345, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.2079234
+t = 14.16005, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.1732693
+t = 14.17656, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.1386151
+t = 14.19316, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.1039617
+t = 14.20969, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0.06930757
+t = 14.22626, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = 0
+t = 14.24282, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = -0.03465379
+t = 14.25938, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = -0.1039617
+t = 14.2763, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = -0.1386155
+t = 14.29252, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = -0.207923
+t = 14.32565, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = -0.2772309
+t = 14.35878, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = -0.3118847
+t = 14.37535, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = -0.3465385
+t = 14.44162, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = -0.3811926
+t = 14.47475, Touch Move Counter-Clockwise Zone2, Down, x = -4.366387, y = -0.4158464
+t = 14.59072, Touch Move End , x = -4.366387, y = -0.4158464
+t = 14.59072, Touch Up, x = -4.366387, y = -0.4158464
+t = 17.24322, Touch Move Start , x = 3.707964, y = 1.663386
+t = 17.24322, Touch Move Clockwise Zone4, Up, x = 3.707964, y = 1.663386
+t = 17.26008, Touch Move Clockwise Zone4, Up, x = 3.777272, y = 1.628731
+t = 17.27662, Touch Move Clockwise Zone4, Up, x = 3.846579, y = 1.628731
+t = 17.29292, Touch Move Clockwise Zone4, Up, x = 3.915887, y = 1.594078
+t = 17.30971, Touch Move Clockwise Zone4, Up, x = 3.950541, y = 1.594078
+t = 17.32605, Touch Move Clockwise Zone4, Up, x = 3.985194, y = 1.594078
+t = 17.3428, Touch Move Clockwise Zone4, Up, x = 4.019849, y = 1.594078
+t = 17.35919, Touch Move Clockwise Zone4, Up, x = 4.054502, y = 1.594078
+t = 17.37575, Touch Move Clockwise Zone4, Up, x = 4.089156, y = 1.594078
+t = 17.39232, Touch Move Clockwise Zone4, Up, x = 4.158464, y = 1.594078
+t = 17.42545, Touch Move Clockwise Zone4, Up, x = 4.193118, y = 1.594078
+t = 17.44202, Touch Move Clockwise Zone4, Up, x = 4.227771, y = 1.594078
+t = 17.49174, Touch Move Clockwise Zone4, Up, x = 4.262426, y = 1.594078
+t = 17.52486, Touch Move Clockwise Zone4, Up, x = 4.29708, y = 1.594078
+t = 17.54143, Touch Move Clockwise Zone4, Up, x = 4.29708, y = 1.559424
+t = 17.59112, Touch Move Clockwise Zone4, Up, x = 4.29708, y = 1.52477
+t = 17.62425, Touch Move Clockwise Zone4, Up, x = 4.331733, y = 1.52477
+t = 17.65738, Touch Move Clockwise Zone4, Up, x = 4.331733, y = 1.490116
+t = 17.67395, Touch Move Clockwise Zone4, Up, x = 4.366387, y = 1.455462
+t = 17.69052, Touch Move Clockwise Zone4, Up, x = 4.366387, y = 1.386155
+t = 17.72378, Touch Move Clockwise Zone4, Up, x = 4.366387, y = 1.351501
+t = 17.74033, Touch Move Clockwise Zone4, Up, x = 4.366387, y = 1.316847
+t = 17.75678, Touch Move Clockwise Zone4, Up, x = 4.366387, y = 1.247539
+t = 17.77335, Touch Move Clockwise Zone4, Up, x = 4.366387, y = 1.178231
+t = 17.78992, Touch Move Clockwise Zone4, Up, x = 4.366387, y = 1.039616
+t = 17.80649, Touch Move Clockwise Zone4, Up, x = 4.366387, y = 0.9703079
+t = 17.82305, Touch Move Clockwise Zone4, Up, x = 4.366387, y = 0.866347
+t = 17.83962, Touch Move Clockwise Zone4, Up, x = 4.331733, y = 0.7623852
+t = 17.85618, Touch Move Clockwise Zone4, Up, x = 4.331733, y = 0.693077
+t = 17.87275, Touch Move Clockwise Zone4, Up, x = 4.29708, y = 0.6237695
+t = 17.88932, Touch Move Clockwise Zone4, Up, x = 4.29708, y = 0.5544619
+t = 17.90589, Touch Move Clockwise Zone4, Up, x = 4.29708, y = 0.4505002
+t = 17.92245, Touch Move Clockwise Zone4, Up, x = 4.29708, y = 0.3465385
+t = 17.93902, Touch Move Clockwise Zone4, Up, x = 4.29708, y = 0.2425768
+t = 17.95558, Touch Move Clockwise Zone4, Up, x = 4.29708, y = 0.1732693
+t = 17.97215, Touch Move Clockwise Zone4, Up, x = 4.262426, y = 0.1039617
+t = 17.98872, Touch Move Clockwise Zone4, Up, x = 4.262426, y = 0.03465411
+t = 18.00529, Touch Move Clockwise Zone4, Up, x = 4.262426, y = -0.06930757
+t = 18.02185, Touch Move Clockwise Zone4, Up, x = 4.227771, y = -0.1039617
+t = 18.03842, Touch Move Clockwise Zone4, Up, x = 4.227771, y = -0.207923
+t = 18.05516, Touch Move Clockwise Zone4, Up, x = 4.227771, y = -0.2772309
+t = 18.0717, Touch Move Clockwise Zone4, Up, x = 4.227771, y = -0.3465385
+t = 18.08824, Touch Move Clockwise Zone4, Up, x = 4.227771, y = -0.4158464
+t = 18.10468, Touch Move Clockwise Zone4, Up, x = 4.227771, y = -0.4505002
+t = 18.12125, Touch Move Clockwise Zone4, Up, x = 4.193118, y = -0.485154
+t = 18.13782, Touch Move Clockwise Zone4, Up, x = 4.193118, y = -0.5544619
+t = 18.17095, Touch Move Clockwise Zone45, Up Left, x = 4.193118, y = -0.6237695
+t = 18.18752, Touch Move Counter-Clockwise Zone45, Up Left, x = 4.158464, y = -0.6930773
+t = 18.20408, Touch Move Clockwise Zone45, Up Left, x = 4.158464, y = -0.797039
+t = 18.22065, Touch Move Clockwise Zone45, Up Left, x = 4.158464, y = -0.8663466
+t = 18.23765, Touch Move Clockwise Zone45, Up Left, x = 4.158464, y = -0.9356545
+t = 18.25378, Touch Move Clockwise Zone45, Up Left, x = 4.158464, y = -1.004962
+t = 18.27035, Touch Move Clockwise Zone45, Up Left, x = 4.158464, y = -1.039616
+t = 18.28692, Touch Move Counter-Clockwise Zone45, Up Left, x = 4.12381, y = -1.108924
+t = 18.32005, Touch Move Clockwise Zone45, Up Left, x = 4.12381, y = -1.143578
+t = 18.33691, Touch Move Clockwise Zone45, Up Left, x = 4.12381, y = -1.178231
+t = 18.35319, Touch Move Counter-Clockwise Zone45, Up Left, x = 4.089156, y = -1.212885
+t = 18.36999, Touch Move Clockwise Zone45, Up Left, x = 4.089156, y = -1.247539
+t = 18.38633, Touch Move Clockwise Zone45, Up Left, x = 4.089156, y = -1.282193
+t = 18.40289, Touch Move Clockwise Zone45, Up Left, x = 4.089156, y = -1.316847
+t = 18.43617, Touch Move Clockwise Zone45, Up Left, x = 4.089156, y = -1.351501
+t = 18.45259, Touch Move Clockwise Zone45, Up Left, x = 4.089156, y = -1.386155
+t = 18.46915, Touch Move Counter-Clockwise Zone45, Up Left, x = 4.054502, y = -1.386155
+t = 18.50229, Touch Move Clockwise Zone45, Up Left, x = 4.054502, y = -1.420808
+t = 18.51891, Touch Move Counter-Clockwise Zone45, Up Left, x = 4.019849, y = -1.420808
+t = 18.53548, Touch Move Clockwise Zone45, Up Left, x = 4.019849, y = -1.455462
+t = 18.56861, Touch Move Counter-Clockwise Zone45, Up Left, x = 3.985194, y = -1.455462
+t = 18.58533, Touch Move Counter-Clockwise Zone45, Up Left, x = 3.950541, y = -1.455462
+t = 18.61832, Touch Move Counter-Clockwise Zone45, Up Left, x = 3.881234, y = -1.455462
+t = 18.63861, Touch Move Counter-Clockwise Zone45, Up Left, x = 3.846579, y = -1.490116
+t = 18.66094, Touch Move Counter-Clockwise Zone45, Up Left, x = 3.742617, y = -1.490116
+t = 18.69407, Touch Move Counter-Clockwise Zone45, Up Left, x = 3.67331, y = -1.52477
+t = 18.71064, Touch Move Clockwise Zone3, Right, x = 3.604002, y = -1.52477
+t = 18.72721, Touch Move Clockwise Zone3, Right, x = 3.534695, y = -1.52477
+t = 18.74377, Touch Move Clockwise Zone3, Right, x = 3.500041, y = -1.52477
+t = 18.76034, Touch Move Clockwise Zone3, Right, x = 3.430733, y = -1.52477
+t = 18.77692, Touch Move Clockwise Zone3, Right, x = 3.326771, y = -1.490116
+t = 18.7938, Touch Move Clockwise Zone3, Right, x = 3.257464, y = -1.490116
+t = 18.82661, Touch Move Clockwise Zone3, Right, x = 3.188156, y = -1.455462
+t = 18.84317, Touch Move Clockwise Zone3, Right, x = 3.118849, y = -1.455462
+t = 18.85974, Touch Move Clockwise Zone3, Right, x = 3.014887, y = -1.455462
+t = 18.87631, Touch Move Clockwise Zone3, Right, x = 2.980232, y = -1.455462
+t = 18.89287, Touch Move Clockwise Zone3, Right, x = 2.876271, y = -1.420808
+t = 18.90959, Touch Move Clockwise Zone3, Right, x = 2.77231, y = -1.420808
+t = 18.92879, Touch Move Clockwise Zone3, Right, x = 2.703001, y = -1.386155
+t = 18.94536, Touch Move Clockwise Zone3, Right, x = 2.633694, y = -1.386155
+t = 18.96233, Touch Move Clockwise Zone3, Right, x = 2.59904, y = -1.386155
+t = 18.97851, Touch Move Clockwise Zone3, Right, x = 2.495079, y = -1.386155
+t = 18.99506, Touch Move Clockwise Zone3, Right, x = 2.425771, y = -1.351501
+t = 19.01413, Touch Move Clockwise Zone3, Right, x = 2.321809, y = -1.351501
+t = 19.0307, Touch Move Clockwise Zone3, Right, x = 2.252502, y = -1.351501
+t = 19.04727, Touch Move Clockwise Zone3, Right, x = 2.217847, y = -1.351501
+t = 19.06383, Touch Move Clockwise Zone3, Right, x = 2.14854, y = -1.351501
+t = 19.08077, Touch Move Clockwise Zone3, Right, x = 2.113886, y = -1.351501
+t = 19.09697, Touch Move Clockwise Zone3, Right, x = 2.044578, y = -1.316847
+t = 19.11353, Touch Move Clockwise Zone3, Right, x = 2.009924, y = -1.316847
+t = 19.13175, Touch Move Clockwise Zone3, Right, x = 1.940616, y = -1.316847
+t = 19.14918, Touch Move Clockwise Zone3, Right, x = 1.871309, y = -1.316847
+t = 19.16607, Touch Move Clockwise Zone3, Right, x = 1.836654, y = -1.316847
+t = 19.18231, Touch Move Clockwise Zone3, Right, x = 1.732694, y = -1.316847
+t = 19.21545, Touch Move Clockwise Zone3, Right, x = 1.663386, y = -1.316847
+t = 19.23326, Touch Move Clockwise Zone3, Right, x = 1.594078, y = -1.316847
+t = 19.24983, Touch Move Clockwise Zone3, Right, x = 1.559424, y = -1.316847
+t = 19.2664, Touch Move Clockwise Zone3, Right, x = 1.52477, y = -1.316847
+t = 19.28311, Touch Move Clockwise Zone3, Right, x = 1.490117, y = -1.316847
+t = 19.30768, Touch Move Clockwise Zone3, Right, x = 1.455462, y = -1.316847
+t = 19.32429, Touch Move Clockwise Zone3, Right, x = 1.386155, y = -1.316847
+t = 19.34084, Touch Move Clockwise Zone3, Right, x = 1.386155, y = -1.282193
+t = 19.37395, Touch Move Clockwise Zone3, Right, x = 1.351501, y = -1.282193
+t = 19.39052, Touch Move Clockwise Zone3, Right, x = 1.316847, y = -1.282193
+t = 19.41288, Touch Move Clockwise Zone3, Right, x = 1.247539, y = -1.282193
+t = 19.44602, Touch Move Clockwise Zone3, Right, x = 1.212886, y = -1.282193
+t = 19.46513, Touch Move Clockwise Zone3, Right, x = 1.178231, y = -1.282193
+t = 19.49826, Touch Move Clockwise Zone3, Right, x = 1.143578, y = -1.282193
+t = 19.51483, Touch Move Clockwise Zone3, Right, x = 1.108924, y = -1.282193
+t = 19.56453, Touch Move Clockwise Zone3, Right, x = 1.074269, y = -1.282193
+t = 19.61423, Touch Move Clockwise Zone3, Right, x = 1.039616, y = -1.282193
+t = 19.64736, Touch Move Clockwise Zone3, Right, x = 1.039616, y = -1.316847
+t = 19.69715, Touch Move Clockwise Zone3, Right, x = 1.039616, y = -1.386155
+t = 19.71369, Touch Move Clockwise Zone3, Right, x = 1.004962, y = -1.455462
+t = 19.75532, Touch Move Clockwise Zone3, Right, x = 1.004962, y = -1.559424
+t = 19.77189, Touch Move End , x = 1.004962, y = -1.767347
+t = 21.5899, Show Hint

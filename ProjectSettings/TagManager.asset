@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Charge
+  - CComponent
+  - Resistor
+  - Inside
+  - Outline
+  - ButtonA
+  - ButtonB
+  - Haptic
+  - Left
+  - Down
+  - Right
+  - Up
+  - Left Down
+  - Down Right
+  - Right Up
+  - Up Left
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Foreground
+  - Top
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: middleground
+    uniqueID: 2815443563
+    locked: 0
+  - name: Foreground
+    uniqueID: 821548315
+    locked: 0
+  - name: Top
+    uniqueID: 1555288967
+    locked: 0
+  - name: Top 2
+    uniqueID: 304175347
+    locked: 0
+  - name: UI
+    uniqueID: 2910340997
+    locked: 0
