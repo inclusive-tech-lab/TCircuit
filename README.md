@@ -1,1 +1,3 @@
 # TCircuit
+
+TCircuit is an application designed for the Tanvas Tablet, a variable friction touch-screen display. The app allows users to feel electric current flowing through a circuit diagram by gliding their fingers across the screen. TCircuit was designed and evaluated through a study with more than 40 parent-child dyads in a museum setting. Results may be found in our IDC 2019 paper titled [Supporting Parent-Child Collaborative Learning through Haptic Feedback Displays](https://dl.acm.org/citation.cfm?id=3323137).
